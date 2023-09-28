@@ -16,7 +16,7 @@ So the BOT gets created and you can chat but there is no response as your BOT is
 
 ![image](https://github.com/ravi0dubey/Telegram_BOT_using_ChatGPT_API/assets/38419795/363734ce-7e7e-4ac1-a600-ad6348ff4493)
 
- ## How to run the BOT
+ # Run the BOT
  
 1. conda create -n telebot python=3.8 -y </br>
 2. conda activate telebot </br>
