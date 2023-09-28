@@ -53,7 +53,7 @@ async def welcome(message: types.Message):
     A handler to welcome the user and clear past conversation and context.
     """
     clear_past()
-    await message.reply("Hello! \nI'm chatGPT Telegram bot created by Bappy.\n How can I assist you?")
+    await message.reply("Hello! \nI'm chatGPT Telegram bot created by Ravi Ranjan Dubey.\n How can I assist you?")
 
 
 
@@ -74,7 +74,7 @@ async def helper(message: types.Message):
     A handler to display the help menu
     """
     help_command = """
-    Hi There, I'm chatGPT Telegram bot created by Bappy! Please follow these commands - 
+    Hi There, I'm chatGPT Telegram bot created by Ravi Ranjan Dubey! Please follow these commands - 
     /start - to start the conversation
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
