@@ -12,18 +12,18 @@
     
  ![Telegram_BOT_Screenshot1_Updated](https://github.com/ravi0dubey/Telegram_BOT_using_ChatGPT_API/assets/38419795/97b38add-bef9-436f-987c-577e1f6a87ab)
 
-So the BOT gets created and you can chat but there is no response as your bot is still not operational
+So the BOT gets created and you can chat but there is no response as your BOT is still not operational
+
 ![image](https://github.com/ravi0dubey/Telegram_BOT_using_ChatGPT_API/assets/38419795/363734ce-7e7e-4ac1-a600-ad6348ff4493)
 
-
- ## How to run  
+ ## How to run the BOT
  
 1. conda create -n telebot python=3.8 -y </br>
 2. conda activate telebot </br>
 3. pip install -r requirements.txt </br>
-4. python research\telegram_echo_bot.py </br>
+4. python telebot.py 
 
-You will be able to sort of chat with the BOT
 
-![image](https://github.com/ravi0dubey/Telegram_BOT_using_ChatGPT_API/assets/38419795/7bd90dcf-abd9-4f2d-a5a3-d9e451a0b9c6)
+
+
 
