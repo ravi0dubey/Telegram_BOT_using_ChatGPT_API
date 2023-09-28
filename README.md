@@ -23,6 +23,8 @@ So the BOT gets created and you can chat but there is no response as your BOT is
 3. pip install -r requirements.txt </br>
 4. python telebot.py 
 
+# Demo video of the project
+https://youtu.be/jFg_ZXfqbQo
 
 
 
