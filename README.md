@@ -6,3 +6,5 @@
 2. conda activate telebot </br>
 3. pip install -r requirements.txt </br>
 4. python telebot.py </br>
+
+amd 
