@@ -71,7 +71,7 @@ async def clear(message: types.Message):
 @dispatcher.message_handler(commands=['help'])
 async def helper(message: types.Message):
     """
-    A handler to display the help menu.
+    A handler to display the help menu
     """
     help_command = """
     Hi There, I'm chatGPT Telegram bot created by Bappy! Please follow these commands - 

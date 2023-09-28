@@ -1,3 +1,4 @@
 python-dotenv
-aiogram # package for telegram
+# aiogram # package for telegram
 openai
+aiogram==2.23.1
