@@ -7,7 +7,8 @@
  3. write /newbot in chat
  4. give a name for your bot, in my case i gave "telebotravi"
  5. give a username to your bot in my case i gave "telebotravi_bot"
- 6. your bot gets create with name "telebotravi" 
+ 6. your bot gets created with name "telebotravi"
+ 7. copy the token which will be used to access the API
     
  ![Telegram_BOT_Screenshot1_Updated](https://github.com/ravi0dubey/Telegram_BOT_using_ChatGPT_API/assets/38419795/97b38add-bef9-436f-987c-577e1f6a87ab)
 
